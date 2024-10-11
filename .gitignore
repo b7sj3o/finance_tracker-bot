@@ -1,0 +1,10 @@
+*venv*
+*.idea*
+*pycache*
+*.db*
+*.env
+*.sqlite3
+*key.pem
+*cert.pem
+*.log
+*logs*
